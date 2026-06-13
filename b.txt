@@ -1,2 +1,3 @@
 test delete command.
 test conflict situation.
+add a different line to test the conflict situation.
