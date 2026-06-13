@@ -1,2 +1,3 @@
 this file is used to test stash command.
 aaa
+bbb
