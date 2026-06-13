@@ -1,3 +1,4 @@
 this is my first time writing.
 this line is used to verify reset.
 A exactly new line.
+I have deleted the merge command line.
